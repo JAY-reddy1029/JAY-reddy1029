@@ -9,11 +9,11 @@ I turn raw data into insights and build dashboards/models that support decisions
 
 ## 📌 Featured Projects
 - **Traffic Sign Recognition System** — CNN-based classifier (Python).  
-  *Repo:* (link coming soon) · *Keywords:* `computer-vision` `keras` `opencv`
-- **Sales Analytics Dashboard (Power BI)** — KPIs, trends, cohort insights.  
-  *Repo:* (link coming soon) · *Keywords:* `powerbi` `data-visualization`
-- **Customer Churn Prediction** — Classification pipeline with feature engineering.  
-  *Repo:* (link coming soon) · *Keywords:* `machine-learning` `scikit-learn`
+  *Repo:* (https://github.com/JAY-reddy1029/traffic-sign-recognition) · *Keywords:* deep-learning, computer-vision, cnn, keras, opencv, python`
+- **House Price Prediction** — Machine Learning model to predict house prices using regression (Python).
+  *Repo:* (link coming soon) · *Keywords:* machine-learning regression scikit-learn pandas matplotlib
+- **LLM-Powered Exploratory Data Analysis (EDA)** — Automated insights generation using Large Language Models for faster EDA.
+  *Repo:* (link coming soon) · *Keywords:* llm eda data-analysis automation python
 
 ## 📝 What I’m Learning
 Improving DAX in Power BI, SQL window functions, and model deployment basics.
